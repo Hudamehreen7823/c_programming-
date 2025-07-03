@@ -1,0 +1,1 @@
+//arrays suported indexbased assignment, while initialization if an index is mentioned the elements after index will subsequently take next position
